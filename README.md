@@ -53,5 +53,3 @@ This repository focuses on **Hypothesis Testing**, a core concept in inferential
 
 For questions or collaboration, connect with me on [LinkedIn](https://www.linkedin.com/in/meghana-c-varghese) or email me at **[meghanac118@gmail.com](mailto:meghanac118@gmail.com)**.
 
-et** (like a hypothesis test example with conclusion) in the README to make it more engaging for GitHub viewers?
-
